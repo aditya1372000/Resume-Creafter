@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Aditya Namdev",
+      "email": "mrnamdev13july2000@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789",
+      "agreeToTerms": true,
+      "id": 1
+    },
+    {
+      "name": "Aditya Namdev",
+      "email": "mrnamdev1372000@gmail.com",
+      "password": "aditya@13",
+      "confirmPassword": "aditya@13",
+      "agreeToTerms": true,
+      "id": 2
+    },
+    {
+      "name": "Rehman",
+      "email": "8120544147@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "agreeToTerms": true,
+      "id": 3
+    }
+  ]
+}
